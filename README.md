@@ -5,7 +5,7 @@ As a Data Analyst at an urban mobility analytics firm, your mission is to unlock
 
 The goal is to build a predictive model that accurately estimates the total taxi fare amount based on various ride-related features. Learners will preprocess the raw data, engineer meaningful features, handle data quality issues, train and evaluate multiple regression models, and finally deploy the best-performing model using Streamlit.
 
-#Real-World Use Cases:
+# Real-World Use Cases:
 Ride-Hailing Services – Fare estimate before ride booking.
 
 
